@@ -9,5 +9,6 @@ import Foundation
 class Yoo1 {
     func test1() {
         print("FS1")
+        print("FS1")
     }
 }
